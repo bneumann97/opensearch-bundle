@@ -1,8 +1,7 @@
 # OpenSearch Bundle
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/bneumann/opensearch-bundle.svg)](https://packagist.org/packages/bneumann/opensearch-bundle)
-[![PHP Version](https://img.shields.io/packagist/php-v/bneumann/opensearch-bundle.svg)](https://packagist.org/packages/bneumann/opensearch-bundle)
-[![License](https://img.shields.io/packagist/l/bneumann/opensearch-bundle.svg)](https://packagist.org/packages/bneumann/opensearch-bundle)
+![Packagist Version](https://img.shields.io/packagist/v/bneumann/opensearch-bundle)
+![Packagist License](https://img.shields.io/packagist/l/bneumann/opensearch-bundle)
 [![Symfony Version](https://img.shields.io/badge/symfony-6.4%20%7C%207.x%20%7C%208.x-blue.svg)](https://symfony.com)
 [![OpenSearch](https://img.shields.io/badge/opensearch-2.x-005EB8.svg)](https://opensearch.org)
 
