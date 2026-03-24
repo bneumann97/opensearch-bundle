@@ -39,6 +39,7 @@ jobs:
 
       - name: Lock Symfony version
         run: |
+          composer config allow-plugins.symfony/flex true --no-interaction
           composer config extra.symfony.require "${{ matrix.symfony }}" --no-interaction
           composer require --no-update symfony/flex
 
